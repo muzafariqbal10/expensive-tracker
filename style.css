@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+    align-items: center;
+    background-color: bisque;
+}
+
+.pra {
+    width: 500px;
+    height: 60px;
+    position: relative;
+    left: 400px;
+    bottom: 20px;
+    border-radius: 50px;
+    background-color: cadetblue;
+}
+
+p {
+    font-size: 50px;
+    color: black;
+    letter-spacing: 2px;
+    font-variant: small-caps;
+    
+
+}
+
+.hello {
+    width: 700px;
+    height: 70vh;
+    position: relative;
+    left: 300px;
+}
+
+.hello>input {
+    width: 500px;
+    height: 30px;
+    font-size: larger;
+    background-color: rgb(226, 230, 222);
+    margin: 2px;
+
+}
+
+#type {
+    width: 130px;
+    height: 20px;
+    background-color: rgb(226, 230, 222);
+    font-size: large;
+    position: relative;
+    left: 180px;
+    top: 10px;
+}
+
+button {
+    width: 200px;
+    height: 35px;
+    background-color: rgb(40, 115, 180);
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    border-radius: 30px;
+    font-variant: small-caps;
+}
+
+button:hover {
+    background-color: aliceblue;
+    transition: all 1s ease-in-out;
+}
+
+table {
+    width: 500px;
+    position: relative;
+    top: 30px;
+    left: 100px;
+    font-variant: small-caps;
+    font-size: larger;
+}
